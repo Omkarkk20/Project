@@ -1,1 +1,1 @@
-DevOps Experiment GIT
+DevOps GIT
